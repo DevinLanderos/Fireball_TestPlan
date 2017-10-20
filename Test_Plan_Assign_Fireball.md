@@ -6,41 +6,41 @@ The Project is an exclusive game to the platform PlayStation. Fireball is a uniq
 ### 1.1.1 Control and Menu Tests  
 * Basic Controls- 
  (Buttons that allow the user to Jump, Slam, Change view, Roll and Turn)
-* Menu Screen Inputs 
+* Menu Screen Inputs- 
  (Pause, Start, Map access, Rest field)
 ### 1.1.2 Environment Tests
-* Temperature 
+* Temperature- 
  (Ignition of blocks, how the fire spreads) 
 * Gravity 
  (The collapse of objects- do to fire. Players avatar performs jump at appropriate height.)
-* Torch/Goal 
+* Torch/Goal- 
  (Does the game end when this is lit? Will it ignite on contact?)	
 ### 1.1.3 Advanced Functions Tests
-* Slamming 
+* Slamming- 
  (Does this ability function properly?)
-* Avatar Temperature 
+* Avatar Temperature- 
  (Does the system effect player height correctly, based on color of the flame) Types: Yellow,   Orange, Red, Blue 
-* Gaining Temperature 
+* Gaining Temperature-
  (Does touching higher temperature blocks, raise avatar temperature?) 
-* Temperature Level Up
+* Temperature Level Up-
 (Slamming blocks that are not able to be burned normally, while on fire increases avatar temperature)
-* Chain Score 
+* Chain Score- 
  (Does the counter properly display the score? Does the Player score more while in this State?)
 ### 1.1.4 Game Effects Tests
-* Burning Blocks 
+* Burning Blocks- 
  (Do the blocks catch fire??)   
-* Fireball Shadow 
+* Fireball Shadow- 
  (Does shadow display where the fireball will land after falling?)
-* Slam Raise 
+* Slam Raise- 
  (Will using slam raise every block in a 3 unit radius?)
-* Chains 
+* Chains- 
  (Are multiple blocks able to be lit at once? )
-* Chain Font Size 
+* Chain Font Size- 
  (Chain font size changes with each larger increment)
 ### 1.1.5 Player Progress Test 
- * Overall Game Progress 
+ * Overall Game Progress- 
  (Is the total game progress displayed properly)
-* Chain Completion Rewards 
+* Chain Completion Rewards- 
  (Are the new levels and cosmetics given to the player after completion?)
 ## 1.2 Environment/ User Community 
 
