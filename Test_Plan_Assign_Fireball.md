@@ -4,7 +4,7 @@
 ## 1.1 Summary
 The Project is an exclusive game to the platform PlayStation. Fireball is a unique side scrolling action game. The player will use the ability to burn selected objects as well, as generating heat to jump to light a troch in order to clear each level.  
 ### 1.1.1 Control and Menu Tests  
-* Basic Controls 
+*Basic Controls 
  (Buttons that allow the user to Jump, Slam, Change view, Roll and Turn)
 * Menu Screen Inputs 
  (Pause, Start, Map access, Rest field)
