@@ -1,15 +1,13 @@
-Fireball_TestPlan
-Devin Landeros
-1.0 General Information
-1.1 Summary
+# 1.0 General Information
+## 1.1 Summary
 The Project is an exclusive game to the platform PlayStation. Fireball is a unique side scrolling action game. The player will use the ability to burn selected objects as well, as generating heat to jump to light a troch in order to clear each level.  
-  1.1.1 Control and Menu Tests  
-Basic Controls 
+### 1.1.1 Control and Menu Tests  
+* Basic Controls 
  (Buttons that allow the user to Jump, Slam, Change view, Roll and Turn)
-Menu Screen Inputs 
+* Menu Screen Inputs 
  (Pause, Start, Map access, Rest field)
-1.1.2 Environment Tests
-Temperature 
+### 1.1.2 Environment Tests
+* Temperature 
  (Ignition of blocks, how the fire spreads) 
 Gravity 
  (The collapse of objects- do to fire. Players avatar performs jump at appropriate height.)
