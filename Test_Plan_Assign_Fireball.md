@@ -44,11 +44,16 @@ The Project is an exclusive game to the platform PlayStation. Fireball is a uniq
  (Are the new levels and cosmetics given to the player after completion?)
 
 ## 1.2 Environment/ User Community 
-
+The younger demografic, typically early to mid teenage children.
 
 ## 1.3 Test Objectives 
-
+* Menu
+* Controls
+* Enviorment
+* Movement
+* player effects
 ## 1.4 Acceptance Criteria 
+
 
 ## 1.5 References 
 * GDD- Fireball Core Design v1.95-PDF  
