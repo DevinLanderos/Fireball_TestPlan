@@ -65,22 +65,24 @@ The basic core functions of the game will be tested. functions such as, controls
 A small team of one hundred testers, should suffice baised on the nature and graphical demands.
 ## 2.3 Milestones
 * Alpha Tests: 
-December 2017- October 2018
+December 2016- October 2017
+* Beta Test:
+November 2018- Febuary 2019
+* Release date:
+March 2019
 ## 2.4 Budgets
-
+five hundred thousand dollars 
 ## 2.5 Testing 
-
 ### 2.5.1 Requirements
-	
+Standard industry software and equipment 	
 ### 2.5.2 Testing Materials/Test Tools
-	
+Github for online documenation	
 ### 2.5.3 Test Training 
-
+Testers that are exprinced with platformers 
 # 3.0 Specifications and Evaluations 
 ## 3.1 Requirement Specifications 
-
 ### 3.1.1 Business Rules/ Functions
-
+* None
 ### 3.1.2 Software/ Game Functions 
 
 ### 3.1.3 Test/Function Relationships 
