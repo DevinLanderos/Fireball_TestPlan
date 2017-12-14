@@ -84,16 +84,15 @@ Testers that are exprinced with platformers
 ### 3.1.1 Business Rules/ Functions
 * None
 ### 3.1.2 Software/ Game Functions 
-
+Low to medium demand
 ### 3.1.3 Test/Function Relationships 
-
+*N/A
 ### 3.1.4 Test Progression 
-
-## 3.2 Methods and Constraints 
-	
+*N/A
+## 3.2 Methods and Constraints 	
 ### 3.2.1 Test Methodology 
-	
+Agile Testing- so that multiple levels can be produced without henderince 	
 ### 3.2.2 Extent of Testing 
-	
+Full Testing: due to only developing one version of the game. (Ex. Singleplayer/ Multiplayer)
 ### 3.2.3 Constraints
-
+* None
