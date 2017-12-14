@@ -53,18 +53,19 @@ The younger demografic, typically early to mid teenage children.
 * Movement
 * player effects
 ## 1.4 Acceptance Criteria 
-
+70 percent success rates
 
 ## 1.5 References 
 * GDD- Fireball Core Design v1.95-PDF  
 
 # 2.0 Plan
 ## 2.1 Test Description  
-
+The basic core functions of the game will be tested. functions such as, controls, movement, and enviormental tests.
 ## 2.2 Test Team
-
+A small team of one hundred testers, should suffice baised on the nature and graphical demands.
 ## 2.3 Milestones
-
+* Alpha Tests: 
+December 2017- October 2018
 ## 2.4 Budgets
 
 ## 2.5 Testing 
